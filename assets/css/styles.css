@@ -150,6 +150,14 @@ button:hover {
   border-radius: 50%;
 }
 
+.introduce-item .window {
+  background-color: #fcefff;
+}
+
+.introduce-item .megaphone {
+  background-color: #ebeaff;
+}
+
 .introduce-item .info {
   margin-left: 16px;
 }
